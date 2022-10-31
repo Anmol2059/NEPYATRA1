@@ -1,6 +1,6 @@
-# nepyatra
+# NepYatra
 
-A Tour and Travels website 🌏✈️<br>
+A Tour and Travels website 🇳🇵🌏✈️<br>
 The project can be viewed here: 👉🏼[nepyatra](https://bijanstha7.github.io/NEPYATRA/)
 
 Contributed By:
@@ -27,5 +27,5 @@ JS
 - > Implement Recommendation System based on 2/3 Quiz ⭐
 - > Work on Booking System either with Node JS or PHP
 - > Use Bootstrap for better Responsiveness
-- > Embed E- Commerce within ⭐
+- > Embed E-Commerce within ⭐
 - > Live Chat Bot Maya DIDI ⭐
