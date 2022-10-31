@@ -1,6 +1,6 @@
 # nepyatra
 
-A Tour and Travels website 🌏✈️<br>
+A Tour and Travels website 🇳🇵🌏✈️<br>
 The project can be viewed here: 👉🏼[nepyatra](https://bijanstha7.github.io/NEPYATRA/)
 
 Contributed By:
@@ -13,12 +13,12 @@ CSS
 JS
 
 # Phase I 1️⃣
-- > Implemented HTML
+- > Implemented HTML and CSS
 - > Searched for Images
 - > Changed the inline css into external CSS
 - > Logo, Images, Favicon Design
-- > Created Social Media Pages for nepYatra
-- > Added Media Queries for Responsiveness.
+- > Created Social Media Pages for nepYatra,
+- > Added Media Queries for Responsiveness,
 - > Implemented JS for Swiper, Login form , Search Bar
 
 # Plans for Phase II 2️⃣
